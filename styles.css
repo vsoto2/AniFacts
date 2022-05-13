@@ -1,0 +1,43 @@
+.menu1 {
+    display: flex;
+    background-color: lightgrey;
+    margin: 2px;
+    padding: 5px;
+    border: groove lightgreen;
+}
+
+.item1 {
+    padding: 5px;
+    margin: 15px;
+    border: groove black;
+}
+.pic{ 
+    width:350px;
+    width:50%;
+    font-size:20px;
+}
+
+.pic2{
+    width:356px;
+    width:58%;
+    font-size:20px;
+}
+
+.pic3{
+   width:35px;
+    width:35%;
+    font-size:20px;
+}  
+
+
+.menu2{
+    Font-family:"cosmic Sans";
+    font-size:12px;
+    text-align:center;
+}
+
+.pic5{
+    width:35px;
+    width:35%;
+    font-size:20px;
+}   
